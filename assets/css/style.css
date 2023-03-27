@@ -1223,7 +1223,7 @@ section .container {
     color: #fff;
 }
 .button {
-    background-color: green;
+    background-color: trasparent;
     /* Green */
     border: none;
     color: white;
